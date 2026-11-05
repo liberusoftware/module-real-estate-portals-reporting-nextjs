@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-portals-reporting-nextjs",
+  "capabilityKey": "liberusoftware/real-estate-portals-reporting",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-real-estate-portals-reporting-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/real-estate/nextjs/real-estate-portals-reporting.md",
+  "presentationPlan": "projects/real-estate/nextjs/real-estate-portals-reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
